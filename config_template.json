@@ -1,0 +1,8 @@
+{
+	"host": "10.2.218.56",
+	"port": 27017,
+	"username": "",
+	"password": "",
+	"read_database_name": "",
+	"read_collection_name": ""
+}
